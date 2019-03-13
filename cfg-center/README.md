@@ -8,7 +8,7 @@
 1. 集中配置,减少重复、冲突配置。
 1. 简化多个环境,多套部署的配置管理。
 
-![](https://github.com/4paradigm/cfg-center/blob/master/doc/cfg-manage.png)
+![](https://github.com/humingzhe/cfg-center/blob/master/doc/cfg-manage.png)
 
 原理
 ---
